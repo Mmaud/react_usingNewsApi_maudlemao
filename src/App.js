@@ -28,7 +28,7 @@ function App() {
         <input className="searchingInput" />
         <DisplayDayNewsCopy />
         <DisplayDayNews />
-        <CallingApiNews url={url} />
+        {/* <CallingApiNews url={url} /> */}
       </header>
     </div>
   );

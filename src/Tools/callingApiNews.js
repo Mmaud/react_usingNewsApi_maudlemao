@@ -1,6 +1,8 @@
 import React, {useState, useEffect} from "react";
 
 const CallingApiNews = props => {
+  // WITH THIS FUNCTION I CAN HAVE ANY ARTICLES I WANT
+  // USING ANY DIFFERENT URL COMMAND
   const [data, setData] = useState(null);
 
   useEffect(() => {
