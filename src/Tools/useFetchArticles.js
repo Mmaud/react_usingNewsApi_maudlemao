@@ -9,7 +9,7 @@ export const useFetchArticles = url => {
     setLoading(true);
     setError(null);
 
-    fetch(url + "apiKey=803fdd9b8517490d89d8c85ade466b8d")
+    fetch(url + "&apiKey=803fdd9b8517490d89d8c85ade466b8d")
       .then(res => res.json())
       .then(json => {
         setLoading(false);

@@ -7,6 +7,25 @@
   pointer-events: none;
 }
 
+/* group OF CARDS (articleView + articleViewList) */
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+/* .articleViewList {
+  display: flex;
+  justify-content: start;
+  height: 10%;
+} */
+
+/* img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+} */
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
