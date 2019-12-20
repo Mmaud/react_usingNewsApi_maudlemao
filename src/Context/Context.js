@@ -3,15 +3,10 @@ import React, {useState, useEffect} from "react";
 
 const ArticleContext = React.createContext();
 
-//let api = `https://api.myjson.com/bins/t7szj`
 const apiKey = `&apiKey=803fdd9b8517490d89d8c85ade466b8d`;
 
 const ArticleProvider = props => {
   let welcomeUrl = `https://newsapi.org/v2/top-headlines?country=us&apiKey=803fdd9b8517490d89d8c85ade466b8d`;
-  //AS API KEY IS AFTER WE NEED TO ONLY DECLARE THE FIRST PART
-  // THEN THE SEARCH PART THEN THE API KEY
-  //let url = "https://newsapi.org/v2/top-headlines?country=us&apiKey=803fdd9b8517490d89d8c85ade466b8d"
-  //let url = "https://newsapi.org/v2/everything?q=bitcoin&apiKey=803fdd9b8517490d89d8c85ade466b8d"
   let url = "https://newsapi.org/v2/";
   const [showHomeButton, setShowHomeButton] = useState(false);
   const [articles, setArticles] = useState([]);
@@ -55,8 +50,8 @@ const ArticleProvider = props => {
     setShowHomeButton(false);
   };
 
-  // generate a warning but if we delete the array
-  // it renders non stop
+  // eslint generate a warning but if we delete the array
+  // it renders non stop so eslint disabled for this file
   useEffect(() => {
     fetchArticle();
   }, []);

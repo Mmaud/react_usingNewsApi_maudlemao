@@ -16,7 +16,6 @@ class Footer extends Component {
           >
             <i className="fa fa-2x fa-linkedin" aria-hidden="true" />
           </a>
-          {/* @TODO : modifier */}
           <a
             id="repo"
             href="https://github.com/Mmaud/workit_test_maudlemao"
