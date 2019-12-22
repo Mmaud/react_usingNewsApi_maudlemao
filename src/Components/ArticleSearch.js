@@ -9,13 +9,13 @@ export default function ArticleSearch() {
   return (
     <div className="container d-flex justify-content-center my-5">
       <form className="form-inline" onSubmit={e => handleSubmit(e)}>
-        <label htmlFor="search">Search</label>
+        {/* <label htmlFor="search">Search</label> */}
         <input
           onChange={e => handleSearchChange(e)}
           type="text"
           className="form-control"
           id="search"
-          placeholder="bitcoins"
+          placeholder="search"
           name="search"
         />
         <button type="submit" className="btn btn-primary">
