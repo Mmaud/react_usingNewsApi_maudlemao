@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/workit_test_maudlemao/static/css/main.6ad5fb24.chunk.css",
+    "main.css": "/workit_test_maudlemao/static/css/main.d18e3e6e.chunk.css",
     "main.js": "/workit_test_maudlemao/static/js/main.aaf8111d.chunk.js",
     "main.js.map": "/workit_test_maudlemao/static/js/main.aaf8111d.chunk.js.map",
     "runtime-main.js": "/workit_test_maudlemao/static/js/runtime-main.1d2b95ce.js",
@@ -8,16 +8,16 @@
     "static/js/2.3d096e93.chunk.js": "/workit_test_maudlemao/static/js/2.3d096e93.chunk.js",
     "static/js/2.3d096e93.chunk.js.map": "/workit_test_maudlemao/static/js/2.3d096e93.chunk.js.map",
     "index.html": "/workit_test_maudlemao/index.html",
-    "precache-manifest.8c15735474e96c4a324ab509d2b060d8.js": "/workit_test_maudlemao/precache-manifest.8c15735474e96c4a324ab509d2b060d8.js",
+    "precache-manifest.d5144d04850570eea0b27f60581bb5e5.js": "/workit_test_maudlemao/precache-manifest.d5144d04850570eea0b27f60581bb5e5.js",
     "service-worker.js": "/workit_test_maudlemao/service-worker.js",
-    "static/css/main.6ad5fb24.chunk.css.map": "/workit_test_maudlemao/static/css/main.6ad5fb24.chunk.css.map",
+    "static/css/main.d18e3e6e.chunk.css.map": "/workit_test_maudlemao/static/css/main.d18e3e6e.chunk.css.map",
     "static/js/2.3d096e93.chunk.js.LICENSE": "/workit_test_maudlemao/static/js/2.3d096e93.chunk.js.LICENSE",
     "static/media/react.svg": "/workit_test_maudlemao/static/media/react.9a28da9f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1d2b95ce.js",
     "static/js/2.3d096e93.chunk.js",
-    "static/css/main.6ad5fb24.chunk.css",
+    "static/css/main.d18e3e6e.chunk.css",
     "static/js/main.aaf8111d.chunk.js"
   ]
 }
