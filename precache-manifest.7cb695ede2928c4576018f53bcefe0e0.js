@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96036d303c2db7f1dc56b802705bd58e",
+    "revision": "12d1b411c6b825df46e287fb9dac3e91",
     "url": "/workit_test_maudlemao/index.html"
   },
   {
-    "revision": "688c0aa03548d80073bb",
-    "url": "/workit_test_maudlemao/static/css/main.d18e3e6e.chunk.css"
+    "revision": "8bf973a942543a3ec55d",
+    "url": "/workit_test_maudlemao/static/css/main.a2520c23.chunk.css"
   },
   {
     "revision": "74bafa4c092a0cacf334",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/workit_test_maudlemao/static/js/2.3d096e93.chunk.js.LICENSE"
   },
   {
-    "revision": "688c0aa03548d80073bb",
-    "url": "/workit_test_maudlemao/static/js/main.aaf8111d.chunk.js"
+    "revision": "8bf973a942543a3ec55d",
+    "url": "/workit_test_maudlemao/static/js/main.66cd4ae7.chunk.js"
   },
   {
     "revision": "780d8403873d80133a4b",
