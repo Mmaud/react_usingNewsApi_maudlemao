@@ -3,7 +3,6 @@ import Footer from "./Components/Footer";
 import React, {useContext} from "react";
 import ArticleList from "./Components/ArticleList";
 import {ArticleContext} from "./Context/Context";
-import "./App.css";
 
 function App() {
   const appContext = useContext(ArticleContext);
