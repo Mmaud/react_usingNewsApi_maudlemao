@@ -54,3 +54,9 @@ body::-webkit-scrollbar-thumb {
 .card-footer {
   transition: visibility 2s, opacity 5s linear;
 }
+
+/* IMAGE AUTORESIZE */
+.img-card-top {
+  max-width: 100%;
+  height: auto;
+}

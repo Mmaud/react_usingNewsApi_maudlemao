@@ -18,7 +18,7 @@ class Footer extends Component {
           </a>
           <a
             id="repo"
-            href="https://github.com/Mmaud/workit_test_maudlemao"
+            href="https://github.com/Mmaud/react_usingNewsApi_maudlemao"
             target="_blank"
             rel="noopener noreferrer"
           >

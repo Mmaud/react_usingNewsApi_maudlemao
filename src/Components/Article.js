@@ -12,19 +12,9 @@ export default function Article({article}) {
     <div className="col-10 mx-auto col-md-6 col-lg-4 my-3">
       <div className="card">
         {urlToImage === null ? (
-          <img
-            src={replaceIfNoImg}
-            alt="article"
-            className="img-card-top"
-            style={{height: "14rem"}}
-          />
+          <img src={replaceIfNoImg} alt="article" className="img-card-top" />
         ) : (
-          <img
-            src={urlToImage}
-            alt="article"
-            className="img-card-top"
-            style={{height: "14rem"}}
-          />
+          <img src={urlToImage} alt="article" className="img-card-top" />
         )}
         <div className="card-body text-capitalize">
           <h6>{title}</h6>
