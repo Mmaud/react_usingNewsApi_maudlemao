@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react_usingNewsApi_maudlemao/precache-manifest.9fa3df52a0200e513242b2088c63871d.js"
+  "/react_usingNewsApi_maudlemao/precache-manifest.d0bdd74c43844fb026b1845a94b3f52e.js"
 );
 
 self.addEventListener('message', (event) => {
